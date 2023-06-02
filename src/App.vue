@@ -1,15 +1,14 @@
 <template>
-  <div id="app">
-  </div>
+	<div id="app">
+		<el-button type="primary">主要按钮</el-button>
+	</div>
 </template>
 
 <script>
 export default {
-  name: 'App',
-  components: {
-  }
-}
+	name: 'App',
+	components: {},
+};
 </script>
 
-<style>
-</style>
+<style></style>
